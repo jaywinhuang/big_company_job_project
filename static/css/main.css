@@ -1,0 +1,29 @@
+
+#search_box {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+}
+
+.filter li {
+	list-style-type: none;
+	margin-bottom: 20px;
+}
+
+.filter .title {
+	font-size: 16px;
+	font-weight: bold;
+	display: block;
+	margin: 5px;
+	padding-left: 10px;
+	border-left: 3px solid #4cc9b6;
+}
+
+.filter  .active {
+	background-color: blue;
+	color: white;
+}
+
+.pagination .active {
+	background-color: #ddd;
+}
