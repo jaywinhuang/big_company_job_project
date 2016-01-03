@@ -1,0 +1,22 @@
+
+
+*构建main.html
+html/css
+bootstrap
+
+*Javascipt/jquery
+http://.../main.html?keyword=产品经理&company=腾讯&location=深圳&type=产品类&page=1
+
+*爬虫抓取（腾讯、阿里）
+scrapy
+
+*数据库
+mysql
+字段：职位ID，公司，公司ID，职位，公司内职位ID，职位类型，工作地点，更新时间，首次发布时间
+
+2016-01-03T12:16:09.488044Z 1 [Note] A temporary password is generated for root@localhost: kn%cHh4P2&=d
+
+If you lose this password, please consult the section How to Reset the Root Password in the MySQL reference manual.
+
+*Django 后台
+
